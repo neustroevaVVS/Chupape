@@ -1,0 +1,15 @@
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\obj\Debug\ChupapeMunyane.csprojAssemblyReference.cache
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\obj\Debug\MainWindow.g.cs
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\obj\Debug\App.g.cs
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\obj\Debug\ChupapeMunyane_MarkupCompile.cache
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\obj\Debug\ChupapeMunyane_MarkupCompile.lref
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\bin\Debug\ChupapeMunyane.exe.config
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\bin\Debug\ChupapeMunyane.exe
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\bin\Debug\ChupapeMunyane.pdb
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\obj\Debug\MainWindow.baml
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\obj\Debug\ChupapeMunyane.g.resources
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\obj\Debug\ChupapeMunyane.Properties.Resources.resources
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\obj\Debug\ChupapeMunyane.csproj.GenerateResource.cache
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\obj\Debug\ChupapeMunyane.csproj.CoreCompileInputs.cache
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\obj\Debug\ChupapeMunyane.exe
+C:\Users\JackYellow\Desktop\ChupapeMunyane\ChupapeMunyane\obj\Debug\ChupapeMunyane.pdb
